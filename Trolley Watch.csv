@@ -1,0 +1,33 @@
+Hospital,Region,Daily Trolley Total,Daily Ward Total,Daily Total,Weekly Trolley Total,Weekly Ward Total,Weekly Total,Yearly Trolley Total,Yearly Ward Total,Yearly Total
+St Vincent's University Hospital,Eastern,45,10,55,379,54,433,3105,568,3673
+Mater Misericordiae University Hospital,Eastern,32,0,32,300,0,300,2167,0,2167
+Beaumont Hospital,Eastern,19,0,19,149,0,149,1455,0,1455
+"Connolly Hospital, Blanchardstown",Eastern,6,0,6,57,0,57,1471,0,1471
+St James’s Hospital,Eastern,14,0,14,153,0,153,951,113,1064
+Naas General Hospital,Eastern,16,0,16,138,19,157,1351,0,1351
+"Our Lady of Lourdes Hospital, Drogheda",Country,9,0,9,101,0,101,882,0,882
+Cavan General Hospital,Country,9,0,9,111,0,111,2432,1764,4196
+Sligo University Hospital,Country,22,19,41,7,0,7,1036,2254,3290
+Letterkenny University Hospital,Country,4,14,18,226,211,437,293,321,614
+Wexford General Hospital,Country,1,2,3,58,188,246,862,999,1861
+Tipperary University Hospital,Country,9,13,22,33,47,80,3056,5630,8686
+University Hospital Limerick,Country,38,59,97,89,118,207,0,577,577
+"Mid-Western Regional Hospital, Ennis",Country,0,13,13,328,734,1062,3042,1938,4980
+University Hospital Galway,Country,29,16,45,300,196,496,822,1337,2159
+Mayo University Hospital,Country,7,15,22,93,152,245,3225,978,4203
+Portiuncula Hospital,Country,7,5,12,42,14,56,1425,358,1783
+"Midland Regional Hospital, Portlaoise",Country,8,0,8,99,0,99,1254,598,1852
+"Midland Regional Hospital, Mullingar",Country,8,2,10,49,2,51,546,781,1327
+Cork University Hospital,Country,34,10,44,382,91,473,0,548,548
+"Mercy University Hospital, Cork",Country,3,6,9,65,31,96,1190,459,1649
+University Hospital Kerry,Country,10,0,10,115,13,128,453,10,463
+"St Luke’s General Hospital, Kilkenny",Country,12,10,22,0,23,23,284,317,601
+Bantry General Hospital,Country,0,3,3,38,0,38,438,0,438
+"Our Lady's Children's Hospital, Crumlin",Paediatric,2,0,2,54,3,57,383,52,435
+Temple Street Children’s University Hospital,Paediatric,1,0,1,0,41,41,276,0,276
+"National Children's Hospital, Tallaght",Paediatric,1,0,1,65,72,137,79,0,79
+,,,,,41,0,41,35,1,36
+,,,,,2,0,2,268,0,268
+,,,,,0,3,3,0,27,27
+,,,,,3,1,4,54,0,54
+,,,,,2,0,2,18,1,19
