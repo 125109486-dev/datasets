@@ -1,0 +1,29 @@
+hospital,region,daily_ed_trolleys,daily_ward_trolleys,daily_total,weekly_ed_trolleys,weekly_ward_trolleys,weekly_total,yearly_ed_trolleys,yearly_ward_trolleys,yearly_total,snapshot_date
+St. Vincent's University Hospital,Eastern,45.0,10.0,55.0,379,54,433,3105,568,3673,2026-05-19
+Mater Misericordiae University Hospital,Eastern,32.0,0.0,32.0,300,0,300,2167,0,2167,2026-05-19
+Beaumont Hospital,Eastern,19.0,0.0,19.0,149,0,149,1455,0,1455,2026-05-19
+Connolly Hospital Blanchardstown,Eastern,6.0,0.0,6.0,57,0,57,1471,0,1471,2026-05-19
+St Jamess Hospital,Eastern,14.0,0.0,14.0,153,0,153,951,113,1064,2026-05-19
+Naas General Hospital,Eastern,16.0,0.0,16.0,138,19,157,1351,0,1351,2026-05-19
+Our Lady of Lourdes Hospital,Country,9.0,0.0,9.0,101,0,101,882,0,882,2026-05-19
+Cavan General Hospital,Country,9.0,0.0,9.0,111,0,111,2432,1764,4196,2026-05-19
+Sligo University Hospital,Country,22.0,19.0,41.0,7,0,7,1036,2254,3290,2026-05-19
+Letterkenny University Hospital,Country,4.0,14.0,18.0,226,211,437,293,321,614,2026-05-19
+Wexford General Hospital,Country,1.0,2.0,3.0,58,188,246,862,999,1861,2026-05-19
+Tipperary University Hospital,Country,9.0,13.0,22.0,33,47,80,3056,5630,8686,2026-05-19
+University Hospital Limerick,Country,38.0,59.0,97.0,89,118,207,0,577,577,2026-05-19
+Ennis Hospital,Country,0.0,13.0,13.0,328,734,1062,3042,1938,4980,2026-05-19
+Galway University Hospitals,Country,29.0,16.0,45.0,300,196,496,822,1337,2159,2026-05-19
+Mayo University Hospital,Country,7.0,15.0,22.0,93,152,245,3225,978,4203,2026-05-19
+Portiuncula University Hospital,Country,7.0,5.0,12.0,42,14,56,1425,358,1783,2026-05-19
+Midland Regional Hospital Portlaoise,Country,8.0,0.0,8.0,99,0,99,1254,598,1852,2026-05-19
+Midland Regional Hospital Mullingar,Country,8.0,2.0,10.0,49,2,51,546,781,1327,2026-05-19
+Cork University Hospital,Country,34.0,10.0,44.0,382,91,473,0,548,548,2026-05-19
+Mercy University Hospital,Country,3.0,6.0,9.0,65,31,96,1190,459,1649,2026-05-19
+University Hospital Kerry,Country,10.0,0.0,10.0,115,13,128,453,10,463,2026-05-19
+"St Lukes General Hospital, Kilkenny",Country,12.0,10.0,22.0,0,23,23,284,317,601,2026-05-19
+Bantry General Hospital,Country,0.0,3.0,3.0,38,0,38,438,0,438,2026-05-19
+Our Lady's Children's Hospital Crumlin,Paediatric,2.0,0.0,2.0,54,3,57,383,52,435,2026-05-19
+Temple Street Childrens University Hospital,Paediatric,1.0,0.0,1.0,0,41,41,276,0,276,2026-05-19
+Tallaght University Hospital,Paediatric,1.0,0.0,1.0,65,72,137,79,0,79,2026-05-19
+nan,nan,0.0,0.0,0.0,41,0,41,35,1,36,2026-05-19
